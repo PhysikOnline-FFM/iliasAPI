@@ -1,0 +1,5 @@
+# Bleeding edge Django
+django==1.10
+# Django Rest Framework
+djangorestframework
+

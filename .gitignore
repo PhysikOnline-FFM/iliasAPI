@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+# OS generated files
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# databases
+*.sqlite3
+
+#Environment variable with possibly sensitive Data
+# *.env --- uncomment this after setting up Database
