@@ -9,4 +9,4 @@ Für die Nutzung sollte Docker installiert werden.
 #### 1. System aufbauen & starten
 
     docker-compose build
-    docker-compose up# iliasAPP-API
+    docker-compose up
