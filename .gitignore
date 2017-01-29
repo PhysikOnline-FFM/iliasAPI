@@ -1,7 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
 # OS generated files
 
+.### OSX ###
 .DS_Store
+.AppleDouble
+.LSOverride
+.idea
 .DS_Store?
 ._*
 .Spotlight-V100
